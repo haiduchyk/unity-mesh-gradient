@@ -1,0 +1,17 @@
+{
+  "name": "Pandora.MeshGradient",
+  "references": [
+    "DOTweenPro.Scripts",
+    "DOTween.Modules",
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

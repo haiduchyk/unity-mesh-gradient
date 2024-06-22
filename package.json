@@ -1,0 +1,7 @@
+{
+  "name": "com.tools.unity-mesh-gradient",
+  "displayName": "Unity Mesh Gradient",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "A Unity package for applying gradient effects to meshes."
+}
